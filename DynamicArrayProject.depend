@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1645456685 source:c:\users\mmani\desktop\courses\umich\csc375\csc375w22\sampleprograms\dynamicarrayproject\main.cpp
+	<iostream>
+	"DynamicArray.h"
+
+1645024038 c:\users\mmani\desktop\courses\umich\csc375\csc375w22\sampleprograms\dynamicarrayproject\dynamicarray.h
+	<iostream>
+
+1647821224 source:c:\users\bdonc\desktop\dynamicarrayproject\main.cpp
+	<iostream>
+	"DynamicArray.h"
+
+1647821223 c:\users\bdonc\desktop\dynamicarrayproject\dynamicarray.h
+
